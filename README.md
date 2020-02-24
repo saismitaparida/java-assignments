@@ -1,2 +1,2 @@
 # java-assiments
-solutions for java assiments
+solutions for java assignments
