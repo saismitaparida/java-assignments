@@ -1,2 +1,2 @@
-# java-assiments
+# java-assignments
 solutions for java assignments
